@@ -9,8 +9,7 @@ En cualquier diploy render, vercelapp o cualquiera establece las variable de ent
 
 ## TUTORIALES
 
-**Repositorio**
-
+**Repositorio**.
 Como obtener el repositorio en tu perfil [click aqui..](https://streamable.com/1gigfp)
 
 **Host Gratis**
